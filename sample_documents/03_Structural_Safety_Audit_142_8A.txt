@@ -1,0 +1,29 @@
+APEX STRUCTURAL & GEOTECHNICAL CONSULTANTS
+(Empaneled Certified Structural Engineers - Reg No: CSE/UK/2018/092)
+=====================================================
+STRUCTURAL STABILITY & SAFETY AUDIT CERTIFICATE
+Reference: ASSC/2025/AUD-4188
+Client: Himalayan Educational & Research Foundation
+Institution Examined: North Valley Institute of Technology
+
+SITE LOCATION PARTICULARS:
+Address: Sector 9, IT Park Road, Dehradun, Uttarakhand
+Cadastral Reference: Survey Number 142/8A, Plot #44
+[NOTICE: Structural engineer noted inspection conducted on Parcel 142/8A]
+
+CHRONOLOGY & AUDIT DETAILS:
+Site Inspection Date: 2025-11-10
+Foundation Approval Date: 2025-12-04
+Building Components Inspected:
+  - Academic Block A (Ground + 4 Upper Floors) - Reinforced Concrete Frame
+  - Academic Block B (Ground + 3 Upper Floors) - Steel Composite
+  - Central Library & Auditorium Complex (Ground + 2 Floors)
+  - Engineering Workshop Hangar
+
+OBSERVATIONS & STRUCTURAL VERIFICATION:
+1. Seismic Zone: Zone IV compliance verified with ductile detailing (IS 13920:2016).
+2. Live load design criteria: 4.0 kN/m² for classrooms and 5.0 kN/m² for workshops.
+3. No critical structural distress, settlement, or shear fissures detected.
+4. Certificate validity: 5 Years up to 2030-11-09.
+
+Signed by: Er. B. K. Nautiyal, FIE, Chartered Structural Engineer
